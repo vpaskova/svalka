@@ -1,5 +1,5 @@
 # svalka
-##### Svalka is a web application created with the help of Spring Initializr. It uses Spring Boot, Maven, Node.js, Vue.js, Boostrap and PgAdmin for the database.
+##### Svalka is a web application created with the help of Spring Initializr. It uses Spring Boot, Maven, Node.js, Vue.js, Bootstrap and PgAdmin for the database.
 
 Svalka allows its users to find their soul mate. It also allows them to create their own profile. Users can search other users by City, Gender and Relationship Type. Everyone has his own "card" which presents his information. 
 
